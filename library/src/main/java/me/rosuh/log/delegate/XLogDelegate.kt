@@ -1,8 +1,8 @@
-package me.rosuh.library.delegate
+package me.rosuh.log.delegate
 
 import com.tencent.mars.xlog.Log
 import com.tencent.mars.xlog.Xlog
-import me.rosuh.library.Logger
+import me.rosuh.log.Logger
 import java.lang.IllegalStateException
 
 class XLogDelegate : LogDelegate() {

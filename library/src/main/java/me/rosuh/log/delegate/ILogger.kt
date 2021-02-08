@@ -1,6 +1,4 @@
-package me.rosuh.library.delegate
-
-import android.util.Log
+package me.rosuh.log.delegate
 
 interface ILogger {
     fun enable(isEnable: Boolean)

@@ -1,4 +1,4 @@
-package me.rosuh.library
+package me.rosuh.log
 
 import org.junit.Test
 

@@ -1,7 +1,6 @@
-package me.rosuh.library.delegate
+package me.rosuh.log.delegate
 
 import android.util.Log
-import me.rosuh.library.delegate.LogDelegate
 
 
 class SysLogDelegate : LogDelegate() {

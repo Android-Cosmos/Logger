@@ -1,6 +1,6 @@
-package me.rosuh.library.delegate
+package me.rosuh.log.delegate
 
-import me.rosuh.library.Logger
+import me.rosuh.log.Logger
 
 abstract class LogDelegate : ILogger {
 

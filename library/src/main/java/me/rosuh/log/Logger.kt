@@ -1,8 +1,8 @@
-package me.rosuh.library
+package me.rosuh.log
 
 import androidx.annotation.IntRange
-import me.rosuh.library.delegate.ILogger
-import me.rosuh.library.delegate.LogDelegate
+import me.rosuh.log.delegate.ILogger
+import me.rosuh.log.delegate.LogDelegate
 
 object Logger : ILogger {
 

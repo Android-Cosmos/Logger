@@ -1,6 +1,6 @@
-package me.rosuh.library.ktx
+package me.rosuh.log.ktx
 
-import me.rosuh.library.Logger
+import me.rosuh.log.Logger
 
 fun lgi(tag: String?, msg: String?) {
     Logger.i(tag, msg)
